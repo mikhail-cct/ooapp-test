@@ -1,7 +1,3 @@
-# This is a print function that outputs my message
-# print('Hello World')
-# print('Hello Python')
-
 # Welcome to the first set of exercises
 
 """
@@ -10,7 +6,7 @@ In the below example comment out the first line of code and uncomment the second
 then run the file.
 """
 
-print("This shouldn't print")
+# print("This shouldn't print")
 # print("This should print")
 
 """
@@ -22,3 +18,5 @@ For example: print("Hello","World!")
 
 For this exercise print your name instead of world. (Try your first and last name also)
 """
+
+print("Hello Mikhail","123")
